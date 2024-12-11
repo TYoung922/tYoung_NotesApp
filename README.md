@@ -1,1 +1,2 @@
 # NotesApp
+My app allows for you to create new notes by typing in the two fields. If a user tries to save it checks to make sure all fields are filled in before saving the note to a list. You can retrieve notes info from the list on the right. In addition you are able to open the current note you are looking at in a new window. Deleteing a note will delete the selected item from the list as well as clear out the text box if that not is currently being displayed.
